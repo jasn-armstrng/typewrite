@@ -7,7 +7,7 @@ set -xe
 SOURCE_FILE="src/main.c"
 
 # Output executable name
-OUTPUT_EXECUTABLE="bin/typewrite"
+OUTPUT_EXECUTABLE="typewrite"
 
 # Compiler command
 CC="gcc -std=c17"
